@@ -1,8 +1,8 @@
 export default function UpdatePage() {
   return (
-    <section className="page">
-      <h1>Update Page</h1>
-      <p>Here we update stuff, exciting right?</p>
-    </section>
+      <section className="page">
+          <h1>update Page</h1>
+          <p>Who we are and what we do 🤷🏼‍♂️</p>
+      </section>
   );
 }
